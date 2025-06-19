@@ -1,0 +1,10 @@
+{
+  "name": "Pool Metrics Card",
+  "description": "A Home Assistant Lovelace card to display pool chemistry metrics (Chlore, PH, TAC).",
+  "render_readme": true,
+  "country": ["FR"],
+  "homeassistant": "2023.1.0",
+  "persistent_directory": "www/community/pool-metrics-card",
+  "zip_release": true,
+  "filename": "pool-metrics-card.js"
+}
